@@ -1,2 +1,2 @@
 # telnyx-go
-Unifficial Golang Abstraction of Telnyx APIs
+Unofficial Golang Abstraction of Telnyx APIs
